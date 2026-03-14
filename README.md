@@ -1,4 +1,4 @@
-# Alphonso LeBlanc
+# Billy Le Blanc
 
 I am an undergraduate transfer student at UC Berkeley studying mathematics, data science, and classical studies. My primary focus is on developing strong theoretical foundations in mathematics and statistics to better understand complex systems, decision-making, and human behavior. 
 
